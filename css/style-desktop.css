@@ -21,8 +21,8 @@
     top: 0;
   }
 
-  .leaflet-control-attribution {
-    visibility:  hidden;
-  }
+.leaflet-control-attribution {
+  visibility: hidden;
+}
 
 }
