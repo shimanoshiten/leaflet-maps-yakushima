@@ -242,7 +242,8 @@ $(window).on('load', function() {
 
     }
 
-    changeAttribution();
+    // changeAttribution();
+    //データなどは見せたくないので表示は変えない    
 
     /* Change image container heights */
     imgContainerHeight = parseInt(getSetting('_imgContainerHeight'));
