@@ -127,7 +127,7 @@ a.source:visited {
 }
 
 .leaflet-control-attribution {
-  visibility: hidden;
+   visibility: visible;
 }
 
 .leaflet-marker-icon {
